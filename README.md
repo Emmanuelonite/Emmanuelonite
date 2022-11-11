@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Emmanuelonite
 - 👀 I’m interested in ...Software Engineering
 - 🌱 I’m currently learning ...Software Engineering
-- 💞️ I’m looking to collaborate on ...ALX
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
